@@ -1,0 +1,1 @@
+yolo detect train data=coco8.yaml model=yolov8n.pt epochs=100 imgsz=640
